@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "54109931818",
+    "firebase_url": "https://driving-test-nurbs-default-rtdb.firebaseio.com",
+    "project_id": "driving-test-nurbs",
+    "storage_bucket": "driving-test-nurbs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54109931818:android:f0138eac1969169132b653",
+        "android_client_info": {
+          "package_name": "com.example.nurbs_driving_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgSMPmcqR4qW7zt0Bu000RQu6SxXEcTys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
